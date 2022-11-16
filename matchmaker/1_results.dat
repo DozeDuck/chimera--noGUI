@@ -1,0 +1,3652 @@
+Executing matchmaker.py...
+Opening ab.pdb...
+The following problems occurred while reading PDB file for ab.pdb
+warning:  Ignored bad PDB record found on line 1
+
+ab.pdb opened
+Opening af.pdb...
+The following problems occurred while reading PDB file for af.pdb
+warning:  Ignored bad PDB record found on line 1
+warning:  Ignored bad PDB record found on line 3
+warning:  Ignored bad PDB record found on line 5353
+warning:  Ignored bad PDB record found on line 5355
+warning:  Ignored bad PDB record found on line 10705
+warning:  Ignored bad PDB record found on line 10707
+warning:  Ignored bad PDB record found on line 16057
+warning:  Ignored bad PDB record found on line 16059
+warning:  Ignored bad PDB record found on line 21409
+warning:  Ignored bad PDB record found on line 21411
+warning:  Ignored bad PDB record found on line 26761
+warning:  Ignored bad PDB record found on line 26763
+warning:  Ignored bad PDB record found on line 32113
+warning:  Ignored bad PDB record found on line 32115
+warning:  Ignored bad PDB record found on line 37465
+warning:  Ignored bad PDB record found on line 37467
+warning:  Ignored bad PDB record found on line 42817
+warning:  Ignored bad PDB record found on line 42819
+warning:  Ignored bad PDB record found on line 48169
+warning:  Ignored bad PDB record found on line 48171
+warning:  Ignored bad PDB record found on line 53521
+warning:  Ignored bad PDB record found on line 53523
+warning:  Ignored bad PDB record found on line 58873
+warning:  Ignored bad PDB record found on line 58875
+warning:  Ignored bad PDB record found on line 64225
+warning:  Ignored bad PDB record found on line 64227
+warning:  Ignored bad PDB record found on line 69577
+warning:  Ignored bad PDB record found on line 69579
+warning:  Ignored bad PDB record found on line 74929
+warning:  Ignored bad PDB record found on line 74931
+warning:  Ignored bad PDB record found on line 80281
+warning:  Ignored bad PDB record found on line 80283
+warning:  Ignored bad PDB record found on line 85633
+warning:  Ignored bad PDB record found on line 85635
+warning:  Ignored bad PDB record found on line 90985
+warning:  Ignored bad PDB record found on line 90987
+warning:  Ignored bad PDB record found on line 96337
+warning:  Ignored bad PDB record found on line 96339
+warning:  Ignored bad PDB record found on line 101689
+warning:  Ignored bad PDB record found on line 101691
+warning:  Ignored bad PDB record found on line 107041
+warning:  Ignored bad PDB record found on line 107043
+warning:  Ignored bad PDB record found on line 112393
+warning:  Ignored bad PDB record found on line 112395
+warning:  Ignored bad PDB record found on line 117745
+warning:  Ignored bad PDB record found on line 117747
+warning:  Ignored bad PDB record found on line 123097
+warning:  Ignored bad PDB record found on line 123099
+warning:  Ignored bad PDB record found on line 128449
+warning:  Ignored bad PDB record found on line 128451
+warning:  Ignored bad PDB record found on line 133801
+warning:  Ignored bad PDB record found on line 133803
+warning:  Ignored bad PDB record found on line 139153
+warning:  Ignored bad PDB record found on line 139155
+warning:  Ignored bad PDB record found on line 144505
+warning:  Ignored bad PDB record found on line 144507
+warning:  Ignored bad PDB record found on line 149857
+warning:  Ignored bad PDB record found on line 149859
+warning:  Ignored bad PDB record found on line 155209
+warning:  Ignored bad PDB record found on line 155211
+warning:  Ignored bad PDB record found on line 160561
+warning:  Ignored bad PDB record found on line 160563
+warning:  Ignored bad PDB record found on line 165913
+warning:  Ignored bad PDB record found on line 165915
+warning:  Ignored bad PDB record found on line 171265
+warning:  Ignored bad PDB record found on line 171267
+warning:  Ignored bad PDB record found on line 176617
+warning:  Ignored bad PDB record found on line 176619
+warning:  Ignored bad PDB record found on line 181969
+warning:  Ignored bad PDB record found on line 181971
+warning:  Ignored bad PDB record found on line 187321
+warning:  Ignored bad PDB record found on line 187323
+warning:  Ignored bad PDB record found on line 192673
+warning:  Ignored bad PDB record found on line 192675
+warning:  Ignored bad PDB record found on line 198025
+warning:  Ignored bad PDB record found on line 198027
+warning:  Ignored bad PDB record found on line 203377
+warning:  Ignored bad PDB record found on line 203379
+warning:  Ignored bad PDB record found on line 208729
+warning:  Ignored bad PDB record found on line 208731
+warning:  Ignored bad PDB record found on line 214081
+warning:  Ignored bad PDB record found on line 214083
+warning:  Ignored bad PDB record found on line 219433
+warning:  Ignored bad PDB record found on line 219435
+warning:  Ignored bad PDB record found on line 224785
+warning:  Ignored bad PDB record found on line 224787
+warning:  Ignored bad PDB record found on line 230137
+warning:  Ignored bad PDB record found on line 230139
+warning:  Ignored bad PDB record found on line 235489
+warning:  Ignored bad PDB record found on line 235491
+warning:  Ignored bad PDB record found on line 240841
+warning:  Ignored bad PDB record found on line 240843
+warning:  Ignored bad PDB record found on line 246193
+warning:  Ignored bad PDB record found on line 246195
+warning:  Ignored bad PDB record found on line 251545
+warning:  Ignored bad PDB record found on line 251547
+warning:  Ignored bad PDB record found on line 256897
+warning:  Ignored bad PDB record found on line 256899
+warning:  Ignored bad PDB record found on line 262249
+warning:  Ignored bad PDB record found on line 262251
+warning:  Ignored bad PDB record found on line 267601
+warning:  Ignored bad PDB record found on line 267603
+warning:  Ignored bad PDB record found on line 272953
+warning:  Ignored bad PDB record found on line 272955
+warning:  Ignored bad PDB record found on line 278305
+warning:  Ignored bad PDB record found on line 278307
+warning:  Ignored bad PDB record found on line 283657
+warning:  Ignored bad PDB record found on line 283659
+warning:  Ignored bad PDB record found on line 289009
+warning:  Ignored bad PDB record found on line 289011
+warning:  Ignored bad PDB record found on line 294361
+warning:  Ignored bad PDB record found on line 294363
+warning:  Ignored bad PDB record found on line 299713
+warning:  Ignored bad PDB record found on line 299715
+warning:  Ignored bad PDB record found on line 305065
+warning:  Ignored bad PDB record found on line 305067
+warning:  Ignored bad PDB record found on line 310417
+warning:  Ignored bad PDB record found on line 310419
+warning:  Ignored bad PDB record found on line 315769
+warning:  Ignored bad PDB record found on line 315771
+warning:  Ignored bad PDB record found on line 321121
+warning:  Ignored bad PDB record found on line 321123
+warning:  Ignored bad PDB record found on line 326473
+warning:  Ignored bad PDB record found on line 326475
+warning:  Ignored bad PDB record found on line 331825
+warning:  Ignored bad PDB record found on line 331827
+warning:  Ignored bad PDB record found on line 337177
+warning:  Ignored bad PDB record found on line 337179
+warning:  Ignored bad PDB record found on line 342529
+warning:  Ignored bad PDB record found on line 342531
+warning:  Ignored bad PDB record found on line 347881
+warning:  Ignored bad PDB record found on line 347883
+warning:  Ignored bad PDB record found on line 353233
+warning:  Ignored bad PDB record found on line 353235
+warning:  Ignored bad PDB record found on line 358585
+warning:  Ignored bad PDB record found on line 358587
+warning:  Ignored bad PDB record found on line 363937
+warning:  Ignored bad PDB record found on line 363939
+warning:  Ignored bad PDB record found on line 369289
+warning:  Ignored bad PDB record found on line 369291
+warning:  Ignored bad PDB record found on line 374641
+warning:  Ignored bad PDB record found on line 374643
+warning:  Ignored bad PDB record found on line 379993
+warning:  Ignored bad PDB record found on line 379995
+warning:  Ignored bad PDB record found on line 385345
+warning:  Ignored bad PDB record found on line 385347
+warning:  Ignored bad PDB record found on line 390697
+warning:  Ignored bad PDB record found on line 390699
+warning:  Ignored bad PDB record found on line 396049
+warning:  Ignored bad PDB record found on line 396051
+warning:  Ignored bad PDB record found on line 401401
+warning:  Ignored bad PDB record found on line 401403
+warning:  Ignored bad PDB record found on line 406753
+warning:  Ignored bad PDB record found on line 406755
+warning:  Ignored bad PDB record found on line 412105
+warning:  Ignored bad PDB record found on line 412107
+warning:  Ignored bad PDB record found on line 417457
+warning:  Ignored bad PDB record found on line 417459
+warning:  Ignored bad PDB record found on line 422809
+warning:  Ignored bad PDB record found on line 422811
+warning:  Ignored bad PDB record found on line 428161
+warning:  Ignored bad PDB record found on line 428163
+warning:  Ignored bad PDB record found on line 433513
+warning:  Ignored bad PDB record found on line 433515
+warning:  Ignored bad PDB record found on line 438865
+warning:  Ignored bad PDB record found on line 438867
+warning:  Ignored bad PDB record found on line 444217
+warning:  Ignored bad PDB record found on line 444219
+warning:  Ignored bad PDB record found on line 449569
+warning:  Ignored bad PDB record found on line 449571
+warning:  Ignored bad PDB record found on line 454921
+warning:  Ignored bad PDB record found on line 454923
+warning:  Ignored bad PDB record found on line 460273
+warning:  Ignored bad PDB record found on line 460275
+warning:  Ignored bad PDB record found on line 465625
+warning:  Ignored bad PDB record found on line 465627
+warning:  Ignored bad PDB record found on line 470977
+warning:  Ignored bad PDB record found on line 470979
+warning:  Ignored bad PDB record found on line 476329
+warning:  Ignored bad PDB record found on line 476331
+warning:  Ignored bad PDB record found on line 481681
+warning:  Ignored bad PDB record found on line 481683
+warning:  Ignored bad PDB record found on line 487033
+warning:  Ignored bad PDB record found on line 487035
+warning:  Ignored bad PDB record found on line 492385
+warning:  Ignored bad PDB record found on line 492387
+warning:  Ignored bad PDB record found on line 497737
+warning:  Ignored bad PDB record found on line 497739
+warning:  Ignored bad PDB record found on line 503089
+warning:  Ignored bad PDB record found on line 503091
+warning:  Ignored bad PDB record found on line 508441
+warning:  Ignored bad PDB record found on line 508443
+warning:  Ignored bad PDB record found on line 513793
+warning:  Ignored bad PDB record found on line 513795
+warning:  Ignored bad PDB record found on line 519145
+warning:  Ignored bad PDB record found on line 519147
+warning:  Ignored bad PDB record found on line 524497
+warning:  Ignored bad PDB record found on line 524499
+warning:  Ignored bad PDB record found on line 529849
+warning:  Ignored bad PDB record found on line 529851
+warning:  Ignored bad PDB record found on line 535201
+warning:  Ignored bad PDB record found on line 535203
+
+Model 1.1 (af.pdb) appears to be a protein without secondary structure assignments.
+Automatically computing assignments using 'ksdssp' and parameter values:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+Use command 'help ksdssp' for more information.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.2 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.3 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.4 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.5 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.6 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.7 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.8 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.9 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.10 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.11 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.12 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.13 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.14 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.15 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.16 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.17 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.18 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.19 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.20 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.21 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.22 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.23 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.24 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.25 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.26 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.27 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.28 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.29 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.30 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.31 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.32 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.33 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.34 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.35 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.36 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.37 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.38 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.39 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.40 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.41 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.42 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.43 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.44 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.45 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.46 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.47 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.48 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.49 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.50 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.51 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.52 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.53 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.54 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.55 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.56 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.57 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.58 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.59 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.60 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.61 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.62 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.63 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.64 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.65 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.66 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.67 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.68 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.69 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.70 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.71 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.72 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.73 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.74 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.75 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.76 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.77 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.78 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.79 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.80 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.81 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.82 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.83 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.84 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.85 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.86 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.87 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.88 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.89 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.90 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.91 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.92 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.93 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.94 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.95 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.96 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.97 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.98 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.99 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.100 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+Model 1.101 (af.pdb) has no secondary structure assignments. Running ksdssp.
+
+Computing secondary structure assignments...
+Computed secondary structure assignments (see reply log)
+101 models opened
+Computing secondary structure assignments for model(s) #0, #1.1
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.2
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.3
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.4
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.5
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.6
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.7
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.8
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.9
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.10
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.11
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.12
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.13
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.14
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.15
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.16
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.17
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.18
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.19
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.20
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.21
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.22
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.23
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.24
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.25
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.26
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.27
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.28
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.29
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.30
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.31
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.32
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.33
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.34
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.35
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.36
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.37
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.38
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.39
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.40
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.41
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.42
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.43
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.44
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.45
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.46
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.47
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.48
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.49
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.50
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.51
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.52
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.53
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.54
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.55
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.56
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.57
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.58
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.59
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.60
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.61
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.62
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.63
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.64
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.65
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.66
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.67
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.68
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.69
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.70
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.71
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.72
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.73
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.74
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.75
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.76
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.77
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.78
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.79
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.80
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.81
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.82
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.83
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.84
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.85
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.86
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.87
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.88
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.89
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.90
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.91
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.92
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.93
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.94
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.95
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.96
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.97
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.98
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.99
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.100
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+Computing secondary structure assignments for model(s) #1.101
+using ksdssp (Kabsch and Sander Define Secondary Structure
+of Proteins) with the parameters:
+  energy cutoff -0.5
+  minimum helix length 3
+  minimum strand length 3
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.3), sequence alignment score = 1287.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 170 pruned atom pairs is 1.132 angstroms; (across all 296 pairs: 5.400)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.1), sequence alignment score = 1287.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 199 pruned atom pairs is 0.916 angstroms; (across all 296 pairs: 5.168)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.4), sequence alignment score = 1293.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 179 pruned atom pairs is 1.181 angstroms; (across all 296 pairs: 5.500)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.5), sequence alignment score = 1314.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 175 pruned atom pairs is 1.080 angstroms; (across all 296 pairs: 5.420)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.6), sequence alignment score = 1295.4
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 174 pruned atom pairs is 1.072 angstroms; (across all 296 pairs: 5.236)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.7), sequence alignment score = 1273.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 167 pruned atom pairs is 1.105 angstroms; (across all 296 pairs: 5.326)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.2), sequence alignment score = 1286
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 177 pruned atom pairs is 1.108 angstroms; (across all 296 pairs: 5.672)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.9), sequence alignment score = 1277
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 169 pruned atom pairs is 1.075 angstroms; (across all 296 pairs: 5.050)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.10), sequence alignment score = 1293.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 178 pruned atom pairs is 1.111 angstroms; (across all 296 pairs: 5.327)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.11), sequence alignment score = 1302.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 176 pruned atom pairs is 1.081 angstroms; (across all 296 pairs: 5.393)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.12), sequence alignment score = 1266.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 178 pruned atom pairs is 1.089 angstroms; (across all 296 pairs: 5.309)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.13), sequence alignment score = 1286.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 175 pruned atom pairs is 1.098 angstroms; (across all 296 pairs: 5.135)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.14), sequence alignment score = 1272.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 170 pruned atom pairs is 1.124 angstroms; (across all 296 pairs: 5.290)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.45), sequence alignment score = 1275.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 167 pruned atom pairs is 1.169 angstroms; (across all 296 pairs: 5.231)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.15), sequence alignment score = 1272.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 172 pruned atom pairs is 1.089 angstroms; (across all 296 pairs: 5.267)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.16), sequence alignment score = 1272.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 163 pruned atom pairs is 1.081 angstroms; (across all 296 pairs: 5.397)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.17), sequence alignment score = 1264.4
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 172 pruned atom pairs is 1.087 angstroms; (across all 296 pairs: 5.230)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.18), sequence alignment score = 1266.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 169 pruned atom pairs is 1.129 angstroms; (across all 296 pairs: 5.311)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.19), sequence alignment score = 1273.4
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 168 pruned atom pairs is 1.086 angstroms; (across all 296 pairs: 5.225)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.20), sequence alignment score = 1301.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 160 pruned atom pairs is 1.014 angstroms; (across all 296 pairs: 5.218)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.21), sequence alignment score = 1265.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 172 pruned atom pairs is 1.067 angstroms; (across all 296 pairs: 5.469)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.22), sequence alignment score = 1272.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 174 pruned atom pairs is 1.190 angstroms; (across all 296 pairs: 5.604)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.23), sequence alignment score = 1283
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 183 pruned atom pairs is 1.151 angstroms; (across all 296 pairs: 5.735)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.24), sequence alignment score = 1272.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 177 pruned atom pairs is 1.111 angstroms; (across all 296 pairs: 5.478)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.25), sequence alignment score = 1272.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 167 pruned atom pairs is 1.108 angstroms; (across all 296 pairs: 5.242)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.26), sequence alignment score = 1277
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 169 pruned atom pairs is 1.165 angstroms; (across all 296 pairs: 5.434)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.27), sequence alignment score = 1277
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 177 pruned atom pairs is 1.081 angstroms; (across all 296 pairs: 5.431)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.28), sequence alignment score = 1290.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 177 pruned atom pairs is 1.101 angstroms; (across all 296 pairs: 5.468)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.29), sequence alignment score = 1274.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 169 pruned atom pairs is 1.096 angstroms; (across all 296 pairs: 5.481)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.30), sequence alignment score = 1266.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 159 pruned atom pairs is 1.101 angstroms; (across all 296 pairs: 5.049)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.31), sequence alignment score = 1283
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 172 pruned atom pairs is 1.095 angstroms; (across all 296 pairs: 5.294)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.32), sequence alignment score = 1266.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 172 pruned atom pairs is 1.086 angstroms; (across all 296 pairs: 5.017)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.33), sequence alignment score = 1297.4
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 177 pruned atom pairs is 1.151 angstroms; (across all 296 pairs: 5.132)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.34), sequence alignment score = 1288.4
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 172 pruned atom pairs is 1.031 angstroms; (across all 296 pairs: 5.008)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.35), sequence alignment score = 1289.3
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 173 pruned atom pairs is 1.048 angstroms; (across all 296 pairs: 5.013)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.36), sequence alignment score = 1278.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 173 pruned atom pairs is 1.081 angstroms; (across all 296 pairs: 5.076)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.37), sequence alignment score = 1283
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 171 pruned atom pairs is 1.124 angstroms; (across all 296 pairs: 5.353)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.38), sequence alignment score = 1301
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 171 pruned atom pairs is 1.059 angstroms; (across all 296 pairs: 5.246)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.39), sequence alignment score = 1288.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 169 pruned atom pairs is 1.079 angstroms; (across all 296 pairs: 5.198)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.40), sequence alignment score = 1280.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 167 pruned atom pairs is 1.141 angstroms; (across all 296 pairs: 5.088)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.41), sequence alignment score = 1268.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 162 pruned atom pairs is 1.179 angstroms; (across all 296 pairs: 5.125)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.42), sequence alignment score = 1275.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 168 pruned atom pairs is 1.176 angstroms; (across all 296 pairs: 5.242)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.43), sequence alignment score = 1274
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 167 pruned atom pairs is 1.137 angstroms; (across all 296 pairs: 4.983)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.44), sequence alignment score = 1241.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 167 pruned atom pairs is 1.161 angstroms; (across all 296 pairs: 4.968)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.46), sequence alignment score = 1293.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 166 pruned atom pairs is 1.184 angstroms; (across all 296 pairs: 5.026)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.47), sequence alignment score = 1273.4
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 165 pruned atom pairs is 1.116 angstroms; (across all 296 pairs: 5.163)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.48), sequence alignment score = 1278.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 166 pruned atom pairs is 1.130 angstroms; (across all 296 pairs: 5.090)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.49), sequence alignment score = 1285.4
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 164 pruned atom pairs is 1.129 angstroms; (across all 296 pairs: 5.195)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.50), sequence alignment score = 1307.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 166 pruned atom pairs is 1.107 angstroms; (across all 296 pairs: 5.044)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.51), sequence alignment score = 1285.4
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 165 pruned atom pairs is 1.179 angstroms; (across all 296 pairs: 5.232)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.52), sequence alignment score = 1266.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 161 pruned atom pairs is 1.179 angstroms; (across all 296 pairs: 5.273)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.53), sequence alignment score = 1254.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 165 pruned atom pairs is 1.104 angstroms; (across all 296 pairs: 4.988)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.56), sequence alignment score = 1278.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 161 pruned atom pairs is 1.135 angstroms; (across all 296 pairs: 5.377)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.57), sequence alignment score = 1275.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 167 pruned atom pairs is 1.153 angstroms; (across all 296 pairs: 5.198)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.59), sequence alignment score = 1272.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 169 pruned atom pairs is 1.118 angstroms; (across all 296 pairs: 5.126)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.60), sequence alignment score = 1282.4
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 154 pruned atom pairs is 1.163 angstroms; (across all 296 pairs: 5.301)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.61), sequence alignment score = 1293.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 165 pruned atom pairs is 1.119 angstroms; (across all 296 pairs: 5.181)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.62), sequence alignment score = 1282.4
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 168 pruned atom pairs is 1.150 angstroms; (across all 296 pairs: 5.473)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.63), sequence alignment score = 1263.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 170 pruned atom pairs is 1.141 angstroms; (across all 296 pairs: 5.296)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.64), sequence alignment score = 1261.4
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 162 pruned atom pairs is 1.146 angstroms; (across all 296 pairs: 5.354)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.65), sequence alignment score = 1275.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 168 pruned atom pairs is 1.066 angstroms; (across all 296 pairs: 5.333)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.66), sequence alignment score = 1254.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 165 pruned atom pairs is 1.118 angstroms; (across all 296 pairs: 5.125)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.67), sequence alignment score = 1253
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 171 pruned atom pairs is 1.088 angstroms; (across all 296 pairs: 5.348)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.68), sequence alignment score = 1254.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 169 pruned atom pairs is 1.129 angstroms; (across all 296 pairs: 5.483)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.69), sequence alignment score = 1256
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 174 pruned atom pairs is 1.101 angstroms; (across all 296 pairs: 5.479)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.70), sequence alignment score = 1272.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 172 pruned atom pairs is 1.023 angstroms; (across all 296 pairs: 5.320)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.71), sequence alignment score = 1299.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 167 pruned atom pairs is 1.113 angstroms; (across all 296 pairs: 5.340)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.72), sequence alignment score = 1275.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 178 pruned atom pairs is 1.107 angstroms; (across all 296 pairs: 5.331)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.73), sequence alignment score = 1284.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 172 pruned atom pairs is 1.103 angstroms; (across all 296 pairs: 5.354)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.74), sequence alignment score = 1261.4
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 170 pruned atom pairs is 1.080 angstroms; (across all 296 pairs: 5.296)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.8), sequence alignment score = 1287.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 172 pruned atom pairs is 1.059 angstroms; (across all 296 pairs: 5.159)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.76), sequence alignment score = 1268.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 175 pruned atom pairs is 1.054 angstroms; (across all 296 pairs: 5.384)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.77), sequence alignment score = 1275.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 175 pruned atom pairs is 1.061 angstroms; (across all 296 pairs: 5.455)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.78), sequence alignment score = 1265.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 167 pruned atom pairs is 1.105 angstroms; (across all 296 pairs: 5.300)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.79), sequence alignment score = 1281.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 172 pruned atom pairs is 1.081 angstroms; (across all 296 pairs: 5.124)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.80), sequence alignment score = 1277.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 172 pruned atom pairs is 1.086 angstroms; (across all 296 pairs: 5.370)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.81), sequence alignment score = 1295.9
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 167 pruned atom pairs is 1.227 angstroms; (across all 296 pairs: 5.337)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.82), sequence alignment score = 1277
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 178 pruned atom pairs is 1.108 angstroms; (across all 296 pairs: 5.383)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.83), sequence alignment score = 1280.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 174 pruned atom pairs is 1.159 angstroms; (across all 296 pairs: 5.338)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.84), sequence alignment score = 1259
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 161 pruned atom pairs is 1.126 angstroms; (across all 296 pairs: 5.403)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.85), sequence alignment score = 1268
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 165 pruned atom pairs is 1.152 angstroms; (across all 296 pairs: 5.435)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.86), sequence alignment score = 1284.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 168 pruned atom pairs is 1.164 angstroms; (across all 296 pairs: 5.120)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.87), sequence alignment score = 1280.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 164 pruned atom pairs is 1.165 angstroms; (across all 296 pairs: 5.510)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.88), sequence alignment score = 1264.4
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 156 pruned atom pairs is 1.163 angstroms; (across all 296 pairs: 5.552)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.89), sequence alignment score = 1271
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 168 pruned atom pairs is 1.124 angstroms; (across all 296 pairs: 5.242)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.90), sequence alignment score = 1289
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 157 pruned atom pairs is 1.165 angstroms; (across all 296 pairs: 5.293)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.91), sequence alignment score = 1269.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 154 pruned atom pairs is 1.142 angstroms; (across all 296 pairs: 5.448)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.92), sequence alignment score = 1287.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 168 pruned atom pairs is 1.103 angstroms; (across all 296 pairs: 5.356)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.93), sequence alignment score = 1271
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 173 pruned atom pairs is 1.100 angstroms; (across all 296 pairs: 5.388)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.94), sequence alignment score = 1289
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 171 pruned atom pairs is 1.106 angstroms; (across all 296 pairs: 5.461)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.95), sequence alignment score = 1279.7
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 174 pruned atom pairs is 1.152 angstroms; (across all 296 pairs: 5.310)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.96), sequence alignment score = 1290.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 158 pruned atom pairs is 1.129 angstroms; (across all 296 pairs: 5.441)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.97), sequence alignment score = 1271.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 163 pruned atom pairs is 1.158 angstroms; (across all 296 pairs: 5.632)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.98), sequence alignment score = 1268.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 168 pruned atom pairs is 1.152 angstroms; (across all 296 pairs: 5.220)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.99), sequence alignment score = 1270.4
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 164 pruned atom pairs is 1.196 angstroms; (across all 296 pairs: 5.361)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.100), sequence alignment score = 1274
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 167 pruned atom pairs is 1.160 angstroms; (across all 296 pairs: 5.455)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.101), sequence alignment score = 1277.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 170 pruned atom pairs is 1.122 angstroms; (across all 296 pairs: 5.488)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.58), sequence alignment score = 1275.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 167 pruned atom pairs is 1.134 angstroms; (across all 296 pairs: 5.120)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.75), sequence alignment score = 1256.6
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 174 pruned atom pairs is 1.101 angstroms; (across all 296 pairs: 5.182)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.54), sequence alignment score = 1275.2
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 158 pruned atom pairs is 1.152 angstroms; (across all 296 pairs: 5.593)
+
+
+
+
+Matchmaker ab.pdb (#0) with af.pdb (#1.55), sequence alignment score = 1248.8
+with these parameters:
+	chain pairing: bb
+	Needleman-Wunsch using BLOSUM-62
+
+	ss fraction: 0.3
+	gap open (HH/SS/other) 18/18/6, extend 1
+	ss matrix: 
+ (H, O): -6
+ (S, S): 6
+ (H, H): 6
+ (O, S): -6
+ (O, O): 4
+ (H, S): -9
+
+
+	iteration cutoff: 2
+
+RMSD between 179 pruned atom pairs is 1.091 angstroms; (across all 296 pairs: 4.947)
+
+
+Executed matchmaker.py
