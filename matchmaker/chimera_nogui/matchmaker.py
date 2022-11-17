@@ -9,7 +9,8 @@ fn2 = "ab.pdb"
 
 rc("open " + fn2)
 rc("open " + fn1)
+rc("del :1-217")
+rc("del :293-395")
 
-for i in range(100):
-    rc("mm #0 #1." + i)
+rc("mm #0 #1")
  
