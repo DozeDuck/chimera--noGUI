@@ -7,3 +7,4 @@ for i in range(500, 93000, 500):
     rc("open " +  fn1)
     rc("del element.H")
     rc("write #0 " + fn1 + "_delH.pdb")
+    rc("close #0")
